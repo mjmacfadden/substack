@@ -58,3 +58,6 @@ code{
 main{
 	margin-bottom:0 !important;
 }
+iframe{
+	display: block;
+}
